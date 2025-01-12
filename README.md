@@ -67,7 +67,7 @@ Copy code
 
 npm start
 
-The app will open in your default browser at http://localhost:3000.
+The app will open in your default browser at http://localhost:5173/.
 
 USAGE :-
 
