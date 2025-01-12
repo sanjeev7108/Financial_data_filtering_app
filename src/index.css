@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;  /* Remove default margin */
+  background: linear-gradient(to left, #000000, #000080);
+  min-height: 100vh;
+  min-width: 100vh;
+}
+html {
+  height: 100%;
+  margin: 0;  /* Remove default margin */
+  font-family: Arial, sans-serif; /* Optional font */
+}
+#root {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, #000000, #000080);
+  height: 100%; /* Full height for the root container */
+ width: 100%;
+  
+  min-width: 100vh;
+  min-height: 100vh; /* Ensure the height stretches at least the full height of the viewport */
+}
+*{
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: antiquewhite;
+}
+input[type = "date"]{
+
+  color: black;
+}
+input[type="number"]{
+ color: black;
+}
