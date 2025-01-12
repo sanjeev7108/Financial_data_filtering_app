@@ -69,7 +69,7 @@ npm start
 
 The app will open in your default browser at http://localhost:3000.
 
-Usage
+USAGE :-
 
 The app displays a table with Apple Inc.'s financial data (annual income statement).
 
@@ -83,9 +83,15 @@ Minimum and Maximum Net Income.
 
 Clicking on a column header (Date, Revenue, Net Income, etc.) will sort the data in ascending or descending order based on that column.
 
-Contributing
+
+CONTRIBUTING :-
+
 Fork the repository.
+
 Create a new branch (git checkout -b feature-branch).
+
 Make your changes and commit them (git commit -am 'Add new feature').
+
 Push to the branch (git push origin feature-branch).
+
 Open a pull request.
